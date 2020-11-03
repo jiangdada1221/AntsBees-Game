@@ -1,7 +1,7 @@
 # Ants-Game
 <p>A game of Ants Vs. SomeBees consists of a series of turns. In each turn, new bees may enter the ant colony. Then, new ants are placed to defend their colony. Finally, all insects (ants, then bees) take individual actions. Bees either try to move toward the end of the tunnel or sting ants in their way. Ants perform a different action depending on their type, such as collecting more food, or throwing leaves at the bees. The game ends either when a bee reaches the ant queen (you lose), or the entire bee fleet has been vanquished (you win).</p>
 <br>
-<p>I implemented the back end of this game, writing classes(<a href="https://github.com/jiangdada1221/Ants-Game/blob/master/ants.py">ants.py</a>) for all the ants in the game</p>
+<p>I implemented the back end of this game, writing classes(<a href="https://github.com/jiangdada1221/Ants-Game/blob/master/ants.py">ants.py</a>) for all the ants in the game. The UI is implemented by the creater of this project</p>
 
 <img src="http://m.qpic.cn/psb?/V13cnQO90zNVhL/te5*lJ6xlfAX07ZVA4c1S5JVOeFDksUrD*qPj7oud7c!/b/dL8AAAAAAAAA&bo=mgc4BAAAAAARB5E!&rf=viewer_4">
 
